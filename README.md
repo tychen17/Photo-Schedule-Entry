@@ -1,6 +1,6 @@
 # Photo Schedule Entry
 
-The Photo Schedule Entry is Self Used tool, generate from Qwen 3.8 model. 
+The Photo Schedule Entry is self used tool, generate from Qwen 3.8 model. 
 
 Batch-convert photos with travel-info filenames into a structured Excel itinerary.
 
