@@ -1,0 +1,4 @@
+openpyxl>=3.1.0
+
+# 仅在使用 PyInstaller 打包 exe 时需要
+# pyinstaller>=6.0

@@ -1,0 +1,36 @@
+# ---------- 隐私保护----------
+# 本地扩展词典：含个人常去的中小城市与译名
+_local_places.py
+# 任何以 _local 开头的本地私有配置
+_local*.py
+
+# ---------- 程序运行产物 ----------
+# 生成的日程表与待确认清单
+日程记录_*.xlsx
+待人工确认_*.txt
+
+# ---------- 打包产物 ----------
+build/
+dist/
+_buildenv/
+_build_out/
+_build_work/
+*.manifest
+
+# ---------- Python ----------
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+.venv/
+venv/
+env/
+
+# ---------- 编辑器 / 系统 ----------
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+desktop.ini
